@@ -1,29 +1,5 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<!-- badges: Estilo da linha h1 e h2 start -->
-<style>
-/* Oculta a linha padrão abaixo do header de primeiro nível (#) */
-h1,h2 {
-    border-bottom: none !important;
-}
-&#10;/* Adiciona espaço (margem superior) entre o título do cabeçalho e a linha */
-h1::after {
-    content: "";
-    display: block;
-    border-bottom: 2px solid #333; /* Cor cinza escuro (#333) */
-    margin-top: 20px; /* Ajuste a margem superior desejada aqui */
-}
-&#10;/* Estilo para a linha abaixo dos headers de segundo nível */
-h2::after {
-    content: "";
-    display: block;
-    border-bottom: 1px solid #333; /* Cor cinza escuro (#333) */
-    margin-bottom: 10px; /* Espaçamento abaixo da linha */
-    margin-top: 20px;
-}
-&#10;</style>
-<!-- badges: Estilo da linha h1 e h2 end -->
-<!-- <hr style="border: 1px solid #333;"> -->
 
 ## Livro Registro Parque Estatudal de Monte Alegre (PEMA)
 
